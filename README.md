@@ -10,7 +10,7 @@
 
 🤓 **Aspiring to be a Full Stack Data Scientist**
 
-🧑‍💻 *I'm also a 400 level Computer and Electronic Engineering Student in Enugu State University of Science and Technology (ESUT)*
+🧑‍💻 *I'm also a Computer and Electronic Engineering Student*
 
 🎷 *Yeah that's right, I play saxophone*
 
