@@ -1,26 +1,31 @@
-# I’m Victory Nnaji
----
-## ***Data scientist***
 
-## ***Data Analyst***
-
- > I write python codes !!!
- > 
- > Familiar with the libraries below :
-
->> 1. *Numpy*
->> 2. *Pandas*
->> 3. *Matplotlib*
->> 4. *Seaborn*
->> 5. *Scipy*
->> 6. *Sklearn*
->> 7. *Statsmodels*
->> 8. *Tensorflow*
->> 9. *Keras*
- 
+![Logo](https://github-readme-stats.vercel.app/api?username=Vic3sax&&show_icons=truestitle_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
-<!---
-Vic3sax/Vic3sax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Victory Nnaji Ebubechukwu! 👋
+
+###### ***Just call me vic3sax***
+## 🚀 About Me
+👋 ***I'm a Data Scientist...***
+
+🤓 **Aspiring to be a Full Stack Data Scientist**
+
+🧑‍💻 *I'm also a 400 level Computer and Electronic Engineering Student in Enugu State University of Science and Technology (ESUT)*
+
+🎷 *Yeah that's right, I play saxophone*
+
+🎹 *I also play the piano*
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Vic3sax)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victory-nnaji-8186231b7/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaxVictory)
+
+
+## 🛠 Skills
+1. Python
+2. Machine Learning
+3. Deep Learning
+5. Data Anlaytics
+6. Data Science
+7. SQL
