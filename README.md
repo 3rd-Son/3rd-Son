@@ -23,9 +23,12 @@
 
 
 ## 🛠 Skills
-1. Python
-2. Machine Learning
-3. Deep Learning
-5. Data Anlaytics
-6. Data Science
-7. SQL
+- Python
+- Machine Learning
+- Deep Learning
+- Data Anlaytics
+- Data Science
+- SQL
+- Microsoft Excel
+- Tableau
+- Power BI
