@@ -7,7 +7,6 @@
 
 ## :sassy_man:  About me
 - :technologist: I am a `Data Scientist` 
-- :school: I am also a `Computer Engineering Student` at  Enugu State University of Science and Technology
 - :technologist: I love using Software as a solution for every `Problem`
 - 📝 I have a strong foundation and interest in `Data Science` and `Artificial Intelligence`
 - :student: I’m currently learning: `Full Stack Data Sciene`, `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
