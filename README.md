@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm 3rdSon </h1>
+<h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm ThirdSon </h1>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">
 
@@ -128,7 +128,7 @@
   <img alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="40">
 </a>
 &emsp;
-<a href="https://github.com/3rdSon" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/ThirdSon" target="_blank" rel="noopener noreferrer">
   <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40">
 </a>
 </p>
@@ -153,10 +153,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/3rdSon/github-readme-stats"><img alt="3rdSon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=3rdSon&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/ThirdSon/github-readme-stats"><img alt="ThirdSon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThirdSon&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3rdSon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="3rdSon" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThirdSon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ThirdSon" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -167,11 +167,11 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/3rdSon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3rdSon&layout=compact&theme=algolia" alt="3rdSon" /></a> </p>
+<p align="center"> <a href="https://github.com/ThirdSon/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThirdSon&layout=compact&theme=algolia" alt="ThirdSon" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SaxVictory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3rdSon" height="30" width="40" /></a>
+<a href="https://twitter.com/SaxVictory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThirdSon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victory-nnaji-8186231b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victoy Nnaji Ebubechukwu" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/victorynnaji" target="blank" rel="noopener noreferrer"><img align="center"
   <img alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="30">
@@ -179,7 +179,7 @@
 </p>
 
 -----
-Credits: [3rdSon](https://github.com/3rdSon)
+Credits: [ThirdSon](https://github.com/ThirdSon)
 
 Last Edited on: 15/06/2023
 
