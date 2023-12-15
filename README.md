@@ -6,11 +6,12 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I am a `Data Scientist` 
+- :technologist: I am a `Full Stack Data Scientist`, `Data Analyst` and `Technical Writing`
 - :technologist: I love using Software as a solution for every `Problem`
-- 📝 I have a strong foundation and interest in `Data Science` and `Artificial Intelligence`
-- :student: I’m currently learning: `Full Stack Data Sciene`, `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
-- :nerd_face: Always `learning new things`
+- 📝 I have a strong foundation and interest in `Artificial Intelligence`
+- :student: My other Stacks: `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
+- :nerd_face: Always `learning new things and growing`
+- :musical_keyboard: :saxophone: I am a cool musician majoring on `alto sax` and `piano`
 
 <br>
 
@@ -176,6 +177,15 @@
 <a href="https://www.kaggle.com/victorynnaji" target="blank" rel="noopener noreferrer"><img align="center"
   <img alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="30">
 </a>
+<a href="https://3rdson.hashnode.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #2962FF; font-weight: bold; font-size: 16px; margin-right: 10px;">
+  Hashnode Blog
+</a>
+
+<a href="https://medium.com/@3rdSon" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #03A87C; font-weight: bold; font-size: 16px;">
+  Medium Profile
+</a>
+
+
 </p>
 
 -----
