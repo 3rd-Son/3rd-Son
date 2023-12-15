@@ -6,7 +6,7 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I am a `Full Stack Data Scientist`, `Data Analyst` and `Technical Writing`
+- :technologist: I am a `Full Stack Data Scientist`, `Data Analyst` and `Technical Writer`
 - :technologist: I love using Software as a solution for every `Problem`
 - 📝 I have a strong foundation and interest in `Artificial Intelligence`
 - :student: My other Stacks: `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
