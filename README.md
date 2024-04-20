@@ -96,9 +96,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 	 &emsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40" alt="Selenium"></a>
-	&emsp;	
     <a href="#"><img alt="Canva" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg?logo=canva&logoColor=white" width="40" height="40"></a>
   &emsp;
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
