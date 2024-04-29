@@ -81,6 +81,26 @@
 
 </p>
 
+### 👉 LLMs & Generative AI tools
+
+<a href="https://langchain.io/" target="_blank">
+  <img alt="Langchain" src="langchain-icon-url" width="40" height="40">
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+  <img alt="Hugging Face" src="https://huggingface.co/favicon.ico" width="40" height="40">
+</a>
+
+<a href="https://openai.com/" target="_blank">
+  <img alt="OpenAI" src="https://openai.com/favicon.ico" width="40" height="40">
+</a>
+
+<a href="claude-ai-website-url" target="_blank">
+  <img alt="Claude AI" src="claude-ai-icon-url" width="40" height="40">
+</a>
+
+
+
 ### 👉 Software & Tools
  
 <p align="left">
