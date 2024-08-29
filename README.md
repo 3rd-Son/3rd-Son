@@ -20,18 +20,30 @@
 
 ## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-### 👉 Backend Development
+### 👉 Programming Languages
 <p align="left">
 	&emsp;
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-&emsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
-&emsp;
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 
 </p>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+### Backend Development
+ &emsp;
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
+&emsp;
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+&emsp;
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &emsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+</a>
+  &emsp;
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
+
  
  
  ### 👉 Data Science and Machine Learning
@@ -64,17 +76,7 @@
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="PyTorch Logo" src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40">
-  </a>
-   &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  &emsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-  &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
-
+<a/>
 </p>
 
 ### 👉 LLMs & Generative AI Frameworks
