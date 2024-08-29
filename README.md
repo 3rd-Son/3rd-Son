@@ -24,8 +24,6 @@
 <p align="left">
 	&emsp;
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  &emsp;
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
 &emsp;
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
 &emsp;
@@ -47,10 +45,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40">
   </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="Matplotlib Logo" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40">
-  </a>  
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Seaborn Logo" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40">
@@ -78,10 +72,12 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
+  &emsp;
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/> </a>
 
 </p>
 
-### 👉 LLMs & Generative AI tools
+### 👉 LLMs & Generative AI Frameworks
 
 <a href="https://langchain.io/" target="_blank">
   <img alt="Langchain" src="langchain-icon-url" width="40" height="40">
@@ -91,75 +87,16 @@
   <img alt="Hugging Face" src="https://huggingface.co/favicon.ico" width="40" height="40">
 </a>
 
-<a href="https://openai.com/" target="_blank">
-  <img alt="OpenAI" src="https://openai.com/favicon.ico" width="40" height="40">
-</a>
-
-<a href="claude-ai-website-url" target="_blank">
-  <img alt="Claude AI" src="claude-ai-icon-url" width="40" height="40">
-</a>
 
 
 
 ### 👉 Software & Tools
  
 <p align="left">
-  &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-	 &emsp;
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
-    <a href="#"><img alt="Canva" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg?logo=canva&logoColor=white" width="40" height="40"></a>
-  &emsp;
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40">
-</a>
  <a href="https://www.tableau.com/" target="_blank" rel="noopener noreferrer">Tableau</a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer">Microsoft Excel</a>
 
 </p>
-
-### 👉 IDEs
- 
-<p align="left">
-  &emsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" alt="VSCode"></a>
-    &emsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg" width="40" height="40" alt="PyCharm"></a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" alt="Jupyter"></a>
-	&emsp;	
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-</p>
-
-### 👉 Competitive Programming & Problem Solving
- 
-<p align="left">
-&emsp;
-<a href="https://stackoverflow.com/users/21008918/victory-nnaji" target="_blank" rel="noopener noreferrer">
-  <img alt="Stack Overflow" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://www.kaggle.com/victorynnaji" target="_blank" rel="noopener noreferrer">
-  <img alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="40">
-</a>
-&emsp;
-<a href="https://github.com/3rd-Son" target="_blank" rel="noopener noreferrer">
-  <img alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40">
-</a>
-</p>
-
- ### 👉 Operating Systems
- 
-<p align="left">
-  &emsp;
-<a href="#" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="macOS">
-</a>
-  &emsp;
-    <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"></a>
-  </p>
-  
-  <br/>
 
 ## 📊 Github Stats
 
@@ -188,9 +125,6 @@
 <p align="left">
 <a href="https://twitter.com/3rdSon__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3rd-Son" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victory-nnaji-8186231b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Victoy Nnaji Ebubechukwu" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/victorynnaji" target="blank" rel="noopener noreferrer"><img align="center"
-  <img alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40" height="30">
-</a>
 <a href="https://3rdson.hashnode.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #2962FF; font-weight: bold; font-size: 16px; margin-right: 10px;">
   Hashnode Blog
 </a>
@@ -201,9 +135,4 @@
 
 
 </p>
-
------
-Credits: [3rd-Son](https://github.com/3rd-Son)
-
-Last Edited on: 15/06/2023
 
