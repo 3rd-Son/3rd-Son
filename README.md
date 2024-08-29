@@ -119,10 +119,6 @@
 
 <br/>
 
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/3rd-Son/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3rd-Son&layout=compact&theme=algolia" alt="3rd-Son" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/3rdSon__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3rd-Son" height="30" width="40" /></a>
