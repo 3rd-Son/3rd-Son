@@ -6,9 +6,9 @@
 
 
 ## :sassy_man:  About me
-- :technologist: I am a `Full Stack Data Scientist`, `Data Analyst` and `Technical Writer`
+- :technologist: I am a `Software Engineer`, `Generative AI Engineer`, `Full Stack Data Scientist`, `Data Analyst` and `Technical Writer`
 - :technologist: I love using Software as a solution for `Problems`
-- 📝 I have a strong foundation and interest in `Artificial Intelligence`
+- 📝 I have a strong foundation and interest in `Artificial Intelligence` and `Machine Learning` 
 - :student: My other Stacks: `Machine Learning Engineering`, `Deep Learning`, `Computer Vision`, and `Natural Language Processing`
 - :nerd_face: Always `learning new things and growing`
 - :musical_keyboard: :saxophone: I am a cool musician majoring on `alto sax` and `piano`
